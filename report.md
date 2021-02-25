@@ -43,6 +43,7 @@
 
 > dx/dt=-a(t)*x(t)-b(t)*y(t)+P(t)
 > dy/dt=-c(t)*x(t)-h(t)*y(t)+Q(t)
+ 
 
 где:
 Потери, не связанные с боевыми действиями, описывают члены -a(t)x(t) и-h(t)y(t),  
@@ -54,7 +55,7 @@
 
 График получившейся модели: 
 
-![Рис.1](https://github.com/vsfilippova/lab03MathMod/blob/main/image/1.jpg){ Рис.1 }
+![Рис.1](https://github.com/vsfilippova/Lab03MathMod/blob/main/images/1.jpg) { Рис.1 }
 
 
 2.  Рассмотрела модель ведения боевых действий с участием регулярных войск и партизанских отрядов, которая описывается: 
@@ -66,7 +67,7 @@
 
 График получившейся модели: 
 
-![Рис.2](https://github.com/vsfilippova/lab03MathMod/blob/main/image/2.jpg){ Рис.2 }
+![Рис.2](https://github.com/vsfilippova/Lab03MathMod/blob/main/images/2.jpg) { Рис.2 }
 
 
 Рассмотренные простейшие модели соперничества соответствуют системам обыкновенных дифференциальных уравнений второго порядка,   
